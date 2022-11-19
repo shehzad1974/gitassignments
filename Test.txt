@@ -1,4 +1,0 @@
-This is my first Repo
-This is my second commit
-
-THis is a new commit
